@@ -1,5 +1,16 @@
 # Changelog
 
+## [v1.0.0](https://github.com/uphold/topper-web-sdk/releases/tag/v1.0.0) (2026-06-01)
+
+## [v0.12.0](https://github.com/uphold/topper-web-sdk/releases/tag/v0.12.0) (2026-06-01)
+- Update workflows file extension [\#30](https://github.com/uphold/topper-web-sdk/pull/30) ([andregoncalvesdev](https://github.com/andregoncalvesdev))
+- Update release workflow [\#29](https://github.com/uphold/topper-web-sdk/pull/29) ([andregoncalvesdev](https://github.com/andregoncalvesdev))
+- Update workflows [\#28](https://github.com/uphold/topper-web-sdk/pull/28) ([andregoncalvesdev](https://github.com/andregoncalvesdev))
+- Add handlers support [\#2](https://github.com/uphold/topper-web-sdk/pull/2) ([andregoncalvesdev](https://github.com/andregoncalvesdev))
+
+## [v0.11.0](https://github.com/uphold/topper-web-sdk/releases/tag/v0.11.0) (2025-11-03)
+- Rename iOS and Android integration tags [\#25](https://github.com/uphold/topper-web-sdk/pull/25) ([JoaoOliveiraRocha](https://github.com/JoaoOliveiraRocha))
+
 ## [v0.10.0](https://github.com/uphold/topper-web-sdk/releases/tag/v0.10.0) (2025-02-14)
 - Add support for initial screen [\#24](https://github.com/uphold/topper-web-sdk/pull/24) ([JoaoOliveiraRocha](https://github.com/JoaoOliveiraRocha))
 
